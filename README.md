@@ -1,5 +1,5 @@
 # Sorting-Algorithm
-The technqiques to sort an array in increasing order.
+The techniques to sort an array in increasing order.
 
 # Language used
   * C++
